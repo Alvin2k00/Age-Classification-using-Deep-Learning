@@ -3,7 +3,8 @@
 This project was conducted using a dataset provided in by the University. 
 The dataset consisted of 19,000 images approximately. The Dataset split into three categories that were Old, Middle and Young. The number of files were unevenly distributed among the three as you can see from below.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/3ac226ca-278b-4601-96ff-48dac5116e0e)
+
 
 There are two files here:
 1 Image Data Generator- Here the Augmentation techniques applied were using Image Data Generator.
@@ -20,8 +21,9 @@ The link won't work without the program being run in live.
 
 Below is the process of running this.
 
-![alt text](<process of anvil.png>)
+![process of anvil](https://github.com/user-attachments/assets/eda26948-0299-4b60-b423-a04c934ad921)
+
 
 Below is the trial run for this app.
 
-![alt text](<anvil prediction.png>)
+![anvil prediction](https://github.com/user-attachments/assets/e17ce89a-6598-4f4f-9e16-07983de40656)
